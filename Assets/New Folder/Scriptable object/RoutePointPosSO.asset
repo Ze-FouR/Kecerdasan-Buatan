@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11f5955736ba84c4eb3cc546822bfbb7, type: 3}
   m_Name: RoutePointPosSO
   m_EditorClassIdentifier: 
-  pointA: {x: 0, y: 0, z: 0}
-  pointB: {x: 0, y: 0, z: 0}
+  pointA: {x: 10, y: 0, z: 10}
+  pointB: {x: 5, y: 0, z: 5}
